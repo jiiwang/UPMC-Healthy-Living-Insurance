@@ -1,5 +1,4 @@
 # UPMC-Healthy-Living-Insurance
-#### For academic integrity, I cannot make the code public!
 A project of Cloud Computing
 
 Here's the work flow/specification of our system.
