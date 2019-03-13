@@ -7,4 +7,4 @@ When a food image is uploaded into an S3 bucket, a Lambda function will be trigg
 
 On the EC2 instance, a web application is built based on Flask framework. It allows user to view his diet scores. Data visualization tool called Highcharts.js is utilized. 
 
-Thereafter, these evaluations can be used for UPMC to recommend best insurance plan for its customers accordingly. (This is part is not implemented yet)
+Thereafter, these evaluations can be used for UPMC to recommend best insurance plan for its customers accordingly. (This part is not implemented yet)
